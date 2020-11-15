@@ -1,0 +1,6 @@
+C:\Users\TVK\source\repos\Tprogramming\Tprogramming\bin\Debug\Tprogramming.exe
+C:\Users\TVK\source\repos\Tprogramming\Tprogramming\bin\Debug\Tprogramming.pdb
+C:\Users\TVK\source\repos\Tprogramming\Tprogramming\obj\Debug\Tprogramming.csproj.CoreCompileInputs.cache
+C:\Users\TVK\source\repos\Tprogramming\Tprogramming\obj\Debug\Tprogramming.exe
+C:\Users\TVK\source\repos\Tprogramming\Tprogramming\obj\Debug\Tprogramming.pdb
+C:\Users\TVK\source\repos\Tprogramming\Tprogramming\obj\Debug\Tprogramming.csprojAssemblyReference.cache
